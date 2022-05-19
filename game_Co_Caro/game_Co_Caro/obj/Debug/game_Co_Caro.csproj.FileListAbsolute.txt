@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\bin\Debug\game_Co_Caro.exe.config
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\bin\Debug\game_Co_Caro.exe
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\bin\Debug\game_Co_Caro.pdb
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.Form1.resources
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.exe
+C:\Users\Admin\Documents\GitHub\BTL_LTNC_Caro\game_Co_Caro\game_Co_Caro\obj\Debug\game_Co_Caro.pdb
